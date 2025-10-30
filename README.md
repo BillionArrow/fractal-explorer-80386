@@ -7,9 +7,10 @@ Featured fractals are the Mandelbrot set, the Sierpinski triangle and a few othe
 
 
 ## TODO:
-- implement main menu and keyboard input
-- allow user to select the fractal to be displayed
-- implement user controlled zoom
-- implement auto zoom
-- optimizations
-- ?
+- OK  implement main menu and keyboard input
+- OK  allow user to select the fractal to be displayed
+- +/- implement user controlled zoom
+- +/- optimizations
+- X   implement auto zoom 
+
+- frontend is mostly finished now, all that's left is the actual algorithms for calculating the fractals and displaying them on the screen adequately 
